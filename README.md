@@ -1,6 +1,5 @@
-# news_app_ui_setup
-
-A new Flutter project.
+# news_app
+An news app utilizes filters to categorize and customize daily news, sports, and other content according to users' interests, allowing them to access relevant content and stay updated on important events..
 
 ## Getting Started
 
